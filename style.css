@@ -6,11 +6,13 @@
 #wrapper{
  width: 950px;
  background-color: silver;
- margin: 0px auto;
+ margin: 10px;
+ display:inline-block;
 }
 #header{
  height: 150px;
  background-color: green;
+ margin: 20px;
 }
 #navigation{
  height: 300px;
